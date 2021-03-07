@@ -1,0 +1,33 @@
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe.config
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.pdb
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.main.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.pdb
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc_decode.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.csprojResolveAssemblyReference.cache
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.data_show.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.shanon.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.huffman.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.arth.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+F:\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe.config
+F:\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe
+F:\multimedia\multimedia\multimedia\bin\Debug\multimedia.pdb
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.csprojAssemblyReference.cache
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.data_show.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.huffman.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.arth.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.main.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc_decode.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.shanon.resources
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.exe
+F:\multimedia\multimedia\multimedia\obj\Debug\multimedia.pdb
